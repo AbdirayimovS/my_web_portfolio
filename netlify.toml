@@ -14,7 +14,10 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
+  
+[[plugins]]
+  package = "@netlify/plugin-emails"
+  
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
