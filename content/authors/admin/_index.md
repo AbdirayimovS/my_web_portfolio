@@ -53,9 +53,9 @@ social:
     icon_pack: fab
     link: 'https://github.com/AbdirayimovS'
  # telegram 
-#  - icon: telegram
-#    icon_pack: fab
-#    link: 'https://t.me/sardorabdirayimov'
+  - icon: telegram
+    icon_pack: fab
+    link: 'https://t.me/sardorabdirayimov'
  #  youtube 
   - icon: youtube
     icon_pack: fab
@@ -65,9 +65,9 @@ social:
     icon_pack: fab
     link: 'https://instagram.com/sardor_abdirayimov'
  # kaggle 
- # - icon: kaggle
- #   icon_pack: fab
- #   link: 'https://www.kaggle.com/sardorabdirayimov'
+  - icon: kaggle
+    icon_pack: fab
+    link: 'https://www.kaggle.com/sardorabdirayimov'
    
    
   
