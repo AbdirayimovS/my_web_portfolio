@@ -41,7 +41,7 @@ experience:
     company_logo: tass    # change it but how
     location: Tashkent, Uzbekistan
     date_start: '2022-05-01'
-    date_end: '2022-06-01'
+    date_end: '2022-06-03'
     description: |2-
         Tasks include:
         * Finding insights from collected data
