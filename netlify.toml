@@ -15,11 +15,6 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
   
-[[plugins]]
-  package = "@netlify/plugin-emails"
-  NETLIFY_EMAILS_PROVIDER = "sendgrid"
-  NETLIFY_EMAILS_PROVIDER_API_KEY = "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"
-  
   
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
