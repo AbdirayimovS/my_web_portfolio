@@ -26,7 +26,7 @@ experience:
   - title: AI and Big Data
     company: Woosong university
     company_url: 'https://english.wsu.ac.kr/main/index.jsp'
-    company_logo: woosong.png.jpg    ###change it to image 
+    company_logo: 'woosong.png.jpg'    ###change it to image 
     location: South Korea
     date_start: '2021-08-30'
     date_end: '2025-08-30'
