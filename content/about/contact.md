@@ -18,7 +18,7 @@ content:
 
   # Email form provider
   form:
-    provider: sendgrid    #netlify
+    provider: netlify #sendgrid  
     formspree: 
       id: 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
     netlify: 
