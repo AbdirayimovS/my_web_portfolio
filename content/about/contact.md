@@ -1,4 +1,4 @@
-# ---
+---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 # widget: contact
@@ -27,4 +27,4 @@
 
 # design:
 #   columns: '1'
-# ---
+ ---
