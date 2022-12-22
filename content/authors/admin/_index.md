@@ -79,7 +79,7 @@ social:
     link: files/resume.pdf   #it was cv.pdf; i changed it to resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:abdirayimovsardor20@gmail.com"  #maybe remove prefit in email !!!!!!!!!
+email: "abdirayimovsardor20@gmail.com"  #maybe remove prefit in email !!!!!!!!!
 ---
 
 Sardor Abdirayimov is young learner of modern AI applications. He is passionate about creating computer vision and deep learning projects. His vision is to make world better by teaching machines to learn from data.
