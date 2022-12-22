@@ -2,6 +2,7 @@
 # Display name
 title: Sardor Abdirayimov
 
+# ALWAYS LEAVE A WHITE SPACE BETWEEN ANY ENTRIES
 # Is this the primary user of the site?
 superuser: true
 
@@ -50,7 +51,7 @@ social:
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
-    link:'https://github.com/AbdirayimovS'
+    link: 'https://github.com/AbdirayimovS'
  # telegram 
 #  - icon: telegram
 #    icon_pack: fab
@@ -58,7 +59,7 @@ social:
  #  youtube 
   - icon: youtube
     icon_pack: fab
-    link:'https://www.youtube.com/channel/UCEsSeqbNuE3a41KHwS8xBDQ'
+    link: 'https://www.youtube.com/channel/UCEsSeqbNuE3a41KHwS8xBDQ'
  # instagram
   - icon: instagram
     icon_pack: fab
