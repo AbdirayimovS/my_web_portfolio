@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: January 2, 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -25,8 +25,8 @@ experience:
   - title: Computer Vision & IoT Intern
     company: The Sparks Foundations
     company_url: 'https://www.thesparksfoundationsingapore.org/'
-    company_logo: org-gc    # change it but how
-    location: Online
+    company_logo: sparks    # change it but how
+    location: remote
     date_start: '2022-12-01'
     date_end: '2022-12-31'
     description: |2-
@@ -38,12 +38,12 @@ experience:
   - title: Data Analyst Intern
     company: Tass Vision
     company_url: 'https://www.tass-vision.uz/en/'
-    company_logo: org-gc    # change it but how
+    company_logo: tass    # change it but how
     location: Tashkent, Uzbekistan
     date_start: '2022-05-01'
     date_end: '2022-06-01'
     description: |2-
-        Responsibilities include:
+        Tasks include:
         * Finding insights from collected data
         * Analysing customer`s data
         * Create monthly reports based on analysis
