@@ -18,10 +18,10 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
-    formspree:
+    provider: sendgrid    #netlify
+    formspree: 
       id:
-    netlify:
+    netlify: 
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true   ### i enabled the captcha, if it is not working, i wil set as false
 
