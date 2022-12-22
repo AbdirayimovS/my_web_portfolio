@@ -20,7 +20,7 @@ content:
   form:
     provider: sendgrid    #netlify
     formspree: 
-      id:
+      id: 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
     netlify: 
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true   ### i enabled the captcha, if it is not working, i wil set as false
