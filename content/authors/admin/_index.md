@@ -27,7 +27,7 @@ interests:
 - Python
 - IoT devices
 
-#education:
+# education:
 #  courses:
 #  - course: BSc in AI and Big Data
 #    institution: Woosong University
