@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sardor`s portfolio Theme # Website name
+title: Sardor`s portfolio # Website name
 baseURL: 'https://meek-cupcake-2d60b9.netlify.app/' # Website URL
 
 ############################
