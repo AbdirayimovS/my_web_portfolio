@@ -41,7 +41,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact # I UNCOMMENT THIS LINK # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:abdirayimovsardor20@gmail.com' # I UNCOMMENT THIS LINK # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/sardorabdirayimov/'
