@@ -21,7 +21,7 @@ marketing:
     description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-B74MTQ4GH6'
     baidu_tongji: ''
   verification:
     google: ''
