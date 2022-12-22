@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+experience:
   - certificate_url: https://www.kaggle.com/learn/certification/sardorabdirayimov/computer-vision
     date_end: ''
     date_start: '2022-03-10'
