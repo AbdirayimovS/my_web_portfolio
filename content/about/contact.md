@@ -23,7 +23,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true   ### i enabled the captcha, if it is not working, i wil set as false
 
 design:
   columns: '1'
