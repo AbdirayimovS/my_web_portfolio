@@ -82,6 +82,6 @@ social:
 email: "abdirayimovsardor20@gmail.com"  #maybe remove prefit in email !!!!!!!!!
 ---
 
-Sardor Abdirayimov is young learner of modern AI applications. He is passionate about creating computer vision and deep learning projects. His vision is to make world better by teaching machines to learn from data.
+Sardor Abdirayimov is a young learner of AI applications. His vision is to make the world better by teaching machines to learn from data. Sardor adores taking online courses or workshops, participating in hackathons or other coding competitions, and joining online communities or forums where he can connect with other people interested in AI and machine learning. He believes: “Staying up-to-date with the latest research and developments in the field is a good habit”. He is integrating this habit to his daily routine. ⏰
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
